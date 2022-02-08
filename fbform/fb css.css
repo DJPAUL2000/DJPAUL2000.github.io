@@ -1,0 +1,11 @@
+img{
+    width: 284px;
+    height: 100px;
+    display: block;
+    margin: auto;
+
+}
+
+.col h2, p{
+    text-align; justify;
+}
